@@ -10,7 +10,7 @@ namespace ConsoleApplication7
 	{
 		static void Main(string[] args)
 		{
-			string pass = "";
+			string pass = ""; // comment
 			Console.Write("Enter your password: ");
 			ConsoleKeyInfo key;
 
